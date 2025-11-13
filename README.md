@@ -152,6 +152,7 @@ jupyter notebook EDA_Movies_Dataset.ipynb
 ├── EDA_Movies_Dataset.ipynb
 ├── mymoviedb.csv
 ├── README.md
+├── requirements.txt
 ```
 
 ---
